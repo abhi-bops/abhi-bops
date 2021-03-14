@@ -1,5 +1,5 @@
 👋 Hi, I’m Abhi  
-👀 I’m interested in python, Machine Learining, bash, and more  
+👀 I’m interested in python, Machine learining, bash, and more  
 🌱 I’m currently learning Machine learning with python  
 📫 You can reach me on twitter [@abhi_bops](https://twitter.com/abhi_bops)  
 
